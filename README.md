@@ -1,6 +1,6 @@
 # Data 8 Public Materials for Spring 2022
 
-This repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course during the Spring 2022 semester.
+HERE repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course during the Spring 2022 semester.
 
 This includes: homeworks, labs, and notebooks used in lecture.
 
